@@ -468,7 +468,11 @@ img {
 
 .footer-wrapper {
     display: flex;
-    gap: 120px;
+    align-items: baseline;
+}
+
+.footer-logo-wrapper {
+    margin-right: 120px
 }
 
 .footer-logo {
